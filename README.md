@@ -21,4 +21,4 @@ It demonstrates the use of:
 ## 🖥️ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/minimal-java-calculator.git
+   git clone https://github.com/Sandipan495/minimal-java-calculator.git
